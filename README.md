@@ -1,6 +1,6 @@
 # OggyType — Typing Performance Tracker
 
-A full-stack typing test app 
+A full-stack typing test app. 
 
 ## Features
 
